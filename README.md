@@ -10,6 +10,7 @@ https://maven.google.com/androidx/versionedparcelable/1.0.0/versionedparcelable-
 
 
 
+
 **References:**
 - https://developer.android.com/jetpack
 - https://developer.android.com/jetpack/androidx/releases/versionedparcelable

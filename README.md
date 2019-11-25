@@ -1,15 +1,12 @@
 ## androidx-versionedparcelable
 
 Eclipse library project based on:<br/>
-https://maven.google.com/androidx/versionedparcelable/1.0.0/versionedparcelable-1.0.0.aar
+https://maven.google.com/androidx/versionedparcelable/versionedparcelable/1.0.0/versionedparcelable-1.0.0.aar
 
 **Requires:**
 - `Android 9 (API 28) SDK Platform`
 - [dandar3/android-androidx-annotation](https://github.com/dandar3/android-androidx-annotation/tree/1.0.0)
 - [dandar3/android-androidx-collection](https://github.com/dandar3/android-androidx-collection/tree/1.0.0)
-
-
-
 
 **References:**
 - https://developer.android.com/jetpack
